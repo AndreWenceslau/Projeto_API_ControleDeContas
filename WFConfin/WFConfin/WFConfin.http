@@ -1,0 +1,6 @@
+@WFConfin_HostAddress = http://localhost:5277
+
+GET {{WFConfin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

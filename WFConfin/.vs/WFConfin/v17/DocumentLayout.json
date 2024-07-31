@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\WFConfin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D9EEDA-39BF-4B06-8467-EA553B8BE81F}|WFConfin\\WFConfin.csproj|c:\\users\\andre\\source\\repos\\wfconfin\\wfconfin\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D9EEDA-39BF-4B06-8467-EA553B8BE81F}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22C6CE-970C-4AA5-A527-FB23420E4A1B}|WFConfinTest\\WFConfinTest.csproj|c:\\users\\andre\\source\\repos\\wfconfin\\wfconfintest\\cidadetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22C6CE-970C-4AA5-A527-FB23420E4A1B}|WFConfinTest\\WFConfinTest.csproj|solutionrelative:wfconfintest\\cidadetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D9EEDA-39BF-4B06-8467-EA553B8BE81F}|WFConfin\\WFConfin.csproj|c:\\users\\andre\\source\\repos\\wfconfin\\wfconfin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D9EEDA-39BF-4B06-8467-EA553B8BE81F}|WFConfin\\WFConfin.csproj|solutionrelative:wfconfin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CidadeTest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WFConfin\\WFConfinTest\\CidadeTest.cs",
+              "RelativeDocumentMoniker": "WFConfinTest\\CidadeTest.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\WFConfin\\WFConfinTest\\CidadeTest.cs",
+              "RelativeToolTip": "WFConfinTest\\CidadeTest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:54:49.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WFConfin\\WFConfin\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "WFConfin\\Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\WFConfin\\WFConfin\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "WFConfin\\Controllers\\CidadeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:49:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\WFConfin\\WFConfin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WFConfin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\WFConfin\\WFConfin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WFConfin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:48:55.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
